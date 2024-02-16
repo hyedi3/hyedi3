@@ -7,7 +7,9 @@
 
 - 📑 Current Project / LAB : Development of Web Services for Railway Hazard Prevention
 
-- 🏫 university / Korea National University of Transfortation → 4th grade
+- 🏫 university - Korea National University of Transfortation (Department of Software)
+
+- 👨‍🏫 graduate school - Korea National University of Transfortation (Department of Software)
 
 - 💼 LAB / BigData & DataBase Lab
 
